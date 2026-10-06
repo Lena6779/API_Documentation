@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local database files
+*.db
+
+# Secrets and environment variables
+.env
+
+# Editor settings
+.vscode/
+.idea/
